@@ -40,7 +40,24 @@ Created a case study on cybercrime and a checklist for responsible online usage.
   Learnt about online threats.
  Learnt about basic online safety practices.
  LINKS
- GitHub profile:
- Linkdein profile:
+ GitHub profile:https://github.com/rithanyasaravanabava/Digital-literacy-project-
+ Google Form:https://docs.google.com/forms/d/e/1FAIpQLSfyoe9FboQH9vGHJOaFX127Wy9EAAyRrJ8O6JMWXTB_oGJLvg/viewform?usp=publish-editor
+ TOOLS USED 
+ Canva
+ GitHub
+ Linkedln
+ Kaggle
+ Google Forms
+ Hacker Rank
+ CONCLUSIONS
+ The project was helpful in laying a foundation for digital literacy by providing hands-on practice and actual application of digital   literacy skills. It enhanced technical and communication skills, as well as awareness of how to use digital platforms safely and responsibly.
+ REFERENCES
+  Canva
+ GitHub
+ Linkedln
+ Kaggle
+ Google Forms
+ Hacker Rank
+ 
  
  
