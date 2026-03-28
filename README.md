@@ -52,19 +52,25 @@ Created a case study on cybercrime and a checklist for responsible online usage.
  
  LINKS:
  
- GitHub profile:https://github.com/rithanyasaravanabava/Digital-literacy-project-
- Google Form:https://docs.google.com/forms/d/e/1FAIpQLSfyoe9FboQH9vGHJOaFX127Wy9EAAyRrJ8O6JMWXTB_oGJLvg/viewform?usp=publish-editor
+  GitHub profile:https://github.com/rithanyasaravanabava/Digital-literacy-project-
+ 
+  Google Form:https://docs.google.com/forms/d/e/1FAIpQLSfyoe9FboQH9vGHJOaFX127Wy9EAAyRrJ8O6JMWXTB_oGJLvg/viewform?usp=publish-editor
 
  
  TOOLS USED :
 
  
- Canva
- GitHub
- Linkedln
- Kaggle
- Google Forms
- Hacker Rank
+  Canva
+ 
+  GitHub
+ 
+  Linkedln
+ 
+  Kaggle
+ 
+  Google Forms
+ 
+  Hacker Rank
 
  
  CONCLUSIONS:
