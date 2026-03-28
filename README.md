@@ -1,7 +1,15 @@
 Digital-literacy-project-
+
+
 Name: S Rithanya
+
+
 Course:Btech Bioengineering
+
+
 University:VIT Bhopal University
+
+
 Course Code:CSE0001
 
 
@@ -83,10 +91,20 @@ Created a case study on cybercrime and a checklist for responsible online usage.
 
  
   -Canva
+
+  
  -GitHub
+
+ 
  -Linkedln
+
+ 
  -Kaggle
+
+ 
  -Google Forms
+
+ 
  -Hacker Rank
  
  
