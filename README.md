@@ -38,39 +38,39 @@ Created a case study on cybercrime and a checklist for responsible online usage.
  KEY LEARNINGS :
 
  
-  Emphasis was placed on designing a clear and visually appealing layout.
- Learnt how to effectively communicate information in a simple way.
-  Maintained a clear and professional profile.
- Learnt the significance of a professional profile for future opportunities.
- Developed basic problem-solving skills.
- Learnt how to design a simple yet effective quiz.
-  Developed effective formal communication skills.
- Learnt the significance of tone and clear communication.
-  Learnt about online threats.
- Learnt about basic online safety practices.
+ - Emphasis was placed on designing a clear and visually appealing layout.
+-Learnt how to effectively communicate information in a simple way.
+ - Maintained a clear and professional profile.
+ -Learnt the significance of a professional profile for future opportunities.
+ -Developed basic problem-solving skills.
+ -Learnt how to design a simple yet effective quiz.
+  -Developed effective formal communication skills.
+ -Learnt the significance of tone and clear communication.
+  -Learnt about online threats.
+ -Learnt about basic online safety practices.
 
  
  LINKS:
  
-  GitHub profile:https://github.com/rithanyasaravanabava/Digital-literacy-project-
+-  GitHub profile:https://github.com/rithanyasaravanabava/Digital-literacy-project-
  
-  Google Form:https://docs.google.com/forms/d/e/1FAIpQLSfyoe9FboQH9vGHJOaFX127Wy9EAAyRrJ8O6JMWXTB_oGJLvg/viewform?usp=publish-editor
+ - Google Form:https://docs.google.com/forms/d/e/1FAIpQLSfyoe9FboQH9vGHJOaFX127Wy9EAAyRrJ8O6JMWXTB_oGJLvg/viewform?usp=publish-editor
 
  
  TOOLS USED :
 
  
-  Canva
+  -Canva
  
-  GitHub
+  -GitHub
  
-  Linkedln
+  -Linkedln
  
-  Kaggle
+  -Kaggle
  
-  Google Forms
+  -Google Forms
  
-  Hacker Rank
+  -Hacker Rank
 
  
  CONCLUSIONS:
@@ -82,12 +82,12 @@ Created a case study on cybercrime and a checklist for responsible online usage.
  REFERENCES:
 
  
-  Canva
- GitHub
- Linkedln
- Kaggle
- Google Forms
- Hacker Rank
+  -Canva
+ -GitHub
+ -Linkedln
+ -Kaggle
+ -Google Forms
+ -Hacker Rank
  
  
  
