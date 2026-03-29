@@ -1,7 +1,7 @@
 **Digital-literacy-project-**
 
 
-#NAME#: S Rithanya
+NAME: S Rithanya
 
 
 Course:Btech Bioengineering
@@ -14,7 +14,7 @@ Course Code:CSE0001
 
 
 
-Project Description
+**Project Description**
 
 The Digital Literacy Project involves developing skills that are required to effectively utilize digital platforms in an efficient manner. In this digital world, digital literacy is not just about using digital devices but also involves understanding how digital devices work, how to communicate in a professional manner, and how to stay safe while using digital devices.
 
@@ -22,31 +22,31 @@ The project includes tasks like creating an infographic, developing a digital po
 
 
 
-Project Structure
+**Project Structure**
 
-Task 1: Infographic
+**Task 1: Infographic**
 
 An awareness infographic was developed using Canva. The infographic included information on internet safety, digital devices, and basic safety tips while using digital devices. The aim was to present information in a simple manner so that it is easy to understand.
 
-Task 2: Digital Portfolio
+**Task 2: Digital Portfolio**
 
 A professional portfolio was developed on platforms like GitHub and LinkedIn. This also included learning about how important it is to have a professional online presence in this digital world.
 
-Task 3: Platforms
+**Task 3: Platforms**
 
 Coding platforms like Kaggle and HackerRank were explored in detail. Also, a Google Form quiz was developed to spread awareness among people about digital literacy.
 
-Task 4: Email Etiquette
+**Task 4: Email Etiquette**
 
 The skills required in writing professional email were learned and practiced. A checklist for safe and responsible social media usage was created, focusing on the right behavior and communication in the digital space.
 
-Task 5: Cybercrime Awareness
+**Task 5: Cybercrime Awareness**
 
 A case study on cybercrime was created to understand the digital threats and issues faced in the real world. A checklist was created to ensure safe and responsible behavior in the digital space.
 
 
 
-Key Learnings
+**Key Learnings**
 
 * Learned to design and create attractive and effective visual content
 * Improved skills in communicating the information in a simple and effective way
@@ -60,7 +60,7 @@ Key Learnings
 
 
 
-Tools Used
+**Tools Used**
 
 - Canva
 - GitHub
@@ -71,7 +71,7 @@ Tools Used
 
 
 
-Links
+**Links**
 
 - GitHub Profile:
   [https://github.com/rithanyasaravanabava/Digital-literacy-project-](https://github.com/rithanyasaravanabava/Digital-literacy-project-)
@@ -80,13 +80,13 @@ Links
   [https://docs.google.com/forms/d/e/1FAIpQLSfyoe9FboQH9vGHJOaFX127Wy9EAAyRrJ8O6JMWXTB_oGJLvg/viewform?usp=publish-editor]
 
 
-Conclusion
+**Conclusion**
 
 This project gave a good foundation in digital literacy by learning and implementing the concepts in the real world. This helped in improving the skills and knowledge in the digital space and creating awareness about the safe and responsible usage of the digital space. The knowledge gained from this project is very useful for the future.
 
 
 
-References
+**References**
 
 - Canva
 - GitHub
