@@ -1,7 +1,7 @@
 **Digital-literacy-project-**
 
 
-Name: S Rithanya
+#NAME#: S Rithanya
 
 
 Course:Btech Bioengineering
